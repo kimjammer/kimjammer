@@ -10,7 +10,7 @@
 ### Extras:
 - 🔭 I’m currently working on [Diri](https://github.com/kimjammer/Diri) and [Cascade-Bot](https://github.com/kimjammer/cascade-bot) when I'm bored!
 - 📫 How to reach me: [Kimjammer#4819](https://discord.com/users/424546246980665344) on Discord
-- 🌐 My website, written and designed by me: [kimjammer.github.io](kimjammer.github.io/Portfolio)
+- 🌐 My website, written and designed by me: [kimjammer.github.io](https://kimjammer.github.io/Portfolio)
 
 <!--
 **kimjammer/kimjammer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

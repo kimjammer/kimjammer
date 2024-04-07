@@ -8,8 +8,8 @@
 
 
 ### Extras:
-- 🔭 I’m currently working on [Diri](https://github.com/kimjammer/Diri) and [Cascade-Bot](https://github.com/kimjammer/cascade-bot) when I'm bored!
-- 📫 How to reach me: [Kimjammer#4819](https://discord.com/users/424546246980665344) on Discord
+- 🔭 I’m currently working on [Neuro](https://github.com/kimjammer/Neuro) and school stuff, probably!
+- 📫 How to reach me: [@kimjammer](https://discord.com/users/424546246980665344) on Discord, [@kimjammer1](https://x.com/kimjammer1), or just contact@kimjammer.com.
 - 🌐 My website, written and designed by me: [kimjammer.com](https://kimjammer.com)
 
 <!--

@@ -4,7 +4,7 @@
 [![Github stats](https://github-readme-stats.vercel.app/api?username=kimjammer&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimjammer&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)  
 ## Kimjammer's Current Projects 💻
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kimjammer&repo=Diri&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kimjammer&repo=Neuro&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Extras:
